@@ -1,0 +1,81 @@
+﻿#,Name,Sell,Where/How,Shadow,Total Catches to Unlock,Rain/Snow Catch Up,Color 1,Color 2,Size,Lighting Type
+56,anchovy,200,Sea,Small,0,No,Blue,Red,1x1,No lighting
+36,angelfish,3000,River,Small,20,No,Yellow,Black,1x1,Fluorescent
+44,arapaima,10000,River,XX-Large,50,Yes,Black,Blue,3x2,No lighting
+41,arowana,10000,River,Large,50,No,Yellow,Black,2x1,Fluorescent
+58,barred knifejaw,5000,Sea,Medium,20,No,White,Black,1x1,Fluorescent
+79,barreleye,15000,Sea,Small,100,No,Black,Black,1x1,Fluorescent
+37,betta,2500,River,Small,20,No,Light blue,Black,1x1,Fluorescent
+1,bitterling,900,River,X-Small,0,No,Light blue,Blue,1x1,No lighting
+22,black bass,400,River,Large,0,No,Green,Black,1x1,Fluorescent
+54,blowfish,5000,Sea,Medium,20,No,Beige,Black,1x1,Fluorescent
+67,blue marlin,10000,Pier,XX-Large,50,Yes,Blue,Black,2x1,Fluorescent
+20,bluegill,180,River,Small,0,No,Blue,Black,1x1,No lighting
+51,butterfly fish,1000,Sea,Small,0,No,Yellow,Black,1x1,Fluorescent
+5,carp,300,Pond,Large,0,No,Gray,Black,1x1,Fluorescent
+18,catfish,800,Pond,Large,0,No,Black,Black,1x1,Fluorescent
+28,char,3800,River (clifftop),Medium,20,No,Brown,Black,1x1,Fluorescent
+27,cherry salmon,1000,River (clifftop),Medium,0,No,Brown,Black,1x1,Fluorescent
+49,clown fish,650,Sea,X-Small,0,No,Orange,Black,1x1,Fluorescent
+80,coelacanth,15000,Sea (rainy days),XX-Large,100,Yes,Black,Black,2x1,Fluorescent
+11,crawfish,200,Pond,Small,0,No,Red,Black,1x1,Fluorescent
+3,crucian carp,160,River,Small,0,No,Brown,Black,1x1,Fluorescent
+61,dab,300,Sea,Medium,0,No,Brown,Black,1x1,Fluorescent
+4,dace,240,River,Medium,0,No,Brown,Black,1x1,Fluorescent
+42,dorado,15000,River,X-Large,100,No,Yellow,Black,2x1,Fluorescent
+77,football fish,2500,Sea,Large,20,No,Black,Black,2x1,Emission
+16,freshwater goby,400,River,Small,0,No,Brown,Black,1x1,Fluorescent
+15,frog,120,Pond,Small,0,No,Green,Black,1x1,Fluorescent
+43,gar,6000,Pond,X-Large,50,No,Brown,Black,2x1,Fluorescent
+19,giant snakehead,5500,Pond,Large,50,No,Black,Black,2x1,Fluorescent
+68,giant trevally,4500,Pier,X-Large,20,No,Black,Black,2x1,Fluorescent
+29,golden trout,15000,River (clifftop),Medium,100,No,Brown,Black,1x1,Fluorescent
+7,goldfish,1300,Pond,X-Small,0,No,Red,Light blue,1x1,No lighting
+74,great white shark,15000,Sea,Large w/Fin,50,Yes,Blue,Blue,3x2,No lighting
+34,guppy,1300,River,X-Small,0,No,Blue,Black,1x1,Fluorescent
+73,hammerhead shark,8000,Sea,Large w/Fin,20,Yes,Black,Black,2x1,Fluorescent
+57,horse mackerel,150,Sea,Small,0,No,Blue,Black,1x1,Fluorescent
+10,killifish,300,Pond,X-Small,0,No,Yellow,Black,1x1,Fluorescent
+32,king salmon,1800,River (mouth),X-Large,20,No,Gray,Black,2x1,Fluorescent
+6,koi,4000,Pond,Large,20,No,Red,White,1x1,Fluorescent
+17,loach,400,River,Small,0,No,Brown,Blue,1x1,No lighting
+69,mahi-mahi,6000,Pier,X-Large,50,Yes,Yellow,Black,2x1,Fluorescent
+33,mitten crab,2000,River,Small,20,No,Black,Blue,1x1,No lighting
+64,moray eel,2000,Sea,Long,20,No,Brown,Black,2x1,Fluorescent
+52,Napoleonfish,10000,Sea,XX-Large,50,Yes,Light blue,Black,2x1,Fluorescent
+38,neon tetra,500,River,X-Small,0,No,Light blue,Black,1x1,Fluorescent
+35,nibble fish,1500,River,X-Small,20,No,Brown,Blue,1x1,No lighting
+78,oarfish,9000,Sea,XX-Large,50,Yes,Red,Blue,3x2,No lighting
+70,ocean sunfish,4000,Sea,Large w/Fin,20,Yes,Blue,Orange,2x2,No lighting
+62,olive flounder,800,Sea,X-Large,0,No,Beige,Black,2x1,Fluorescent
+2,pale chub,200,River,X-Small,0,No,Blue,Blue,1x1,No lighting
+24,pike,1800,River,X-Large,20,No,Green,Black,2x1,Fluorescent
+40,piranha,2500,River,Small,20,No,Green,Black,1x1,Fluorescent
+25,pond smelt,400,River,Small,0,No,Orange,Blue,1x1,No lighting
+8,pop-eyed goldfish,1300,Pond,X-Small,0,No,Black,Light blue,1x1,No lighting
+55,puffer fish,250,Sea,Medium,0,No,Beige,Black,1x1,Fluorescent
+39,rainbowfish,800,River,X-Small,0,No,Orange,Black,1x1,Fluorescent
+9,ranchu goldfish,4500,Pond,Small,20,No,Red,Black,1x1,No lighting
+71,ray,3000,Sea,X-Large,20,No,Brown,Black,2x1,Fluorescent
+60,red snapper,3000,Sea,Large,0,No,Red,Black,1x1,Fluorescent
+65,ribbon eel,600,Sea,Long,0,No,Blue,Black,2x1,Fluorescent
+45,saddled bichir,4000,River,Large,20,No,Brown,Black,2x1,Fluorescent
+31,salmon,700,River (mouth),Large,0,No,Brown,Black,2x1,Fluorescent
+72,saw shark,12000,Sea,Large w/Fin,50,No,Brown,Black,2x1,Fluorescent
+59,sea bass,400,Sea,X-Large,0,No,Gray,Black,2x1,Fluorescent
+47,sea butterfly,1000,Sea,X-Small,0,No,White,Black,1x1,Fluorescent
+48,sea horse,1100,Sea,X-Small,0,No,Orange,Black,1x1,Fluorescent
+13,snapping turtle,5000,River,Large,0,No,Brown,Black,1x1,No lighting
+12,soft-shelled turtle,3750,River,Large,20,No,Green,Black,1x1,No lighting
+63,squid,500,Sea,Medium,0,No,Beige,Black,1x1,Fluorescent
+30,stringfish,15000,River (clifftop),X-Large,100,No,Brown,Black,2x1,Fluorescent
+46,sturgeon,10000,River (mouth),XX-Large,20,Yes,Black,Black,2x1,Fluorescent
+76,suckerfish,1500,Sea,Medium w/Fin,20,No,Black,Black,1x1,Fluorescent
+50,surgeonfish,1000,Sea,Small,0,No,Blue,Black,1x1,Fluorescent
+26,sweetfish,900,River,Medium,0,No,Green,Black,1x1,Fluorescent
+14,tadpole,100,Pond,X-Small,0,No,Black,Blue,1x1,No lighting
+23,tilapia,800,River,Medium,0,No,Black,Black,1x1,Fluorescent
+66,tuna,7000,Pier,XX-Large,50,Yes,Blue,Black,2x1,Fluorescent
+75,whale shark,13000,Sea,Large w/Fin,50,Yes,Black,Blue,3x2,No lighting
+21,yellow perch,300,River,Medium,0,No,Yellow,Black,1x1,Fluorescent
+53,zebra turkeyfish,500,Sea,Medium,0,No,Red,Black,1x1,Fluorescent
